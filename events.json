@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "icon": "💻",
+        "category": "Coding Contest",
+        "title": "CodeFest",
+        "date": "22 August 2026",
+        "time": "10:00 AM",
+        "venue": "Computer Lab",
+        "description": "CodeFest gives students an opportunity to solve programming problems and improve their coding skills."
+    },
+    {
+        "id": 2,
+        "icon": "🚀",
+        "category": "Hackathon",
+        "title": "Hackathon",
+        "date": "29 August 2026",
+        "time": "9:00 AM",
+        "venue": "Computer Lab",
+        "description": "Students work in teams to create useful solutions and present their ideas."
+    },
+    {
+        "id": 3,
+        "icon": "⚡",
+        "category": "Competitive Programming",
+        "title": "Competitive Programming Contest",
+        "date": "5 September 2026",
+        "time": "11:00 AM",
+        "venue": "Computer Lab",
+        "description": "Practise algorithms, data structures, problem solving and programming under competition conditions."
+    }
+]
